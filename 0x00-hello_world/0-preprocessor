@@ -1,5 +1,0 @@
-echo `clear`
-echo enter CFILE
-read FILE
-gcc $FILE && ./a.out
-echo -e '\n'
